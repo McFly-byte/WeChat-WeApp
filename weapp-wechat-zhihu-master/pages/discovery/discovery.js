@@ -5,9 +5,9 @@ Page({
     navTab: ["最新文章", "教程库", "学前评测", "微课"],
     currentNavtab: "0",
     imgUrls: [
-      '../../images/24213.jpg',
-      '../../images/24280.jpg',
-      '../../images/1444983318907-_DSC1826.jpg'
+      '../../images/1-discovery.jpg',
+      '../../images/2-discovery.jpg',
+      '../../images/3-discovery.jpg'
     ],
     indicatorDots: false,
     autoplay: true,

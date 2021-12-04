@@ -8,104 +8,116 @@ module.exports = {
 var discovery= {
     "id": 3,
         "data": [
-        {
-            "question_id": 1,
-            "answer_id": 3,
-            "feed_source_id": 23,
-            "feed_source_name": "Rebecca1",
-            "feed_source_txt": "赞了回答1",
-            "feed_source_img": "../../images/icon1.jpeg",
-            "question": "选择 Kindle 而不是纸质书的原因是什么？",
-            "answer_ctnt": "难道不明白纸质书更贵啊！！！ 若觉得kindle更贵，我觉得要么阅读量太少，那确实没有买kindle的必要。要么买的都是盗版的纸质书？我不清楚不加以评论。。。 另外，用kindle看小说的怎么真心不懂了...",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 2,
-            "answer_id": 25,
-            "feed_source_id": 24,
-            "feed_source_name": "Alex2",
-            "feed_source_txt": "回答了问题2",
-            "feed_source_img": "../../images/icon8.jpg",
-            "question": "如何评价周杰伦的「中文歌才是最屌的」的言论？",
-            "answer_ctnt": "不知道题主是否是学音乐的。 音乐有公认的经典，也有明显的流行趋势没有错。但归根结底，音乐是一种艺术，艺术是很主观的东西。跟画作一个道理，毕加索是大家，但很多人看不懂他的话，甚至觉得很难看...",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 3,
-            "answer_id": 61,
-            "feed_source_id": 25,
-            "feed_source_name": "George3",
-            "feed_source_txt": "赞了回答3",
-            "feed_source_img": "../../images/icon9.jpeg",
-            "question": "气象铁塔的辐射大吗？",
-            "answer_ctnt": "我不知道那个铁塔的情况，不过气象铁塔上会有一些测太阳辐射的设备，如果说辐射的话，太阳辐射那么多，大家赶紧躲进地底下呀~~~~~要不然辐射量这么大，会变异的呀~~~~",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 4,
-            "answer_id": 3,
-            "feed_source_id": 23,
-            "feed_source_name": "Rebecca4",
-            "feed_source_txt": "赞了回答4",
-            "feed_source_img": "../../images/icon1.jpeg",
-            "question": "选择 Kindle 而不是纸质书的原因是什么？",
-            "answer_ctnt": "难道不明白纸质书更贵啊！！！ 若觉得kindle更贵，我觉得要么阅读量太少，那确实没有买kindle的必要。要么买的都是盗版的纸质书？我不清楚不加以评论。。。 另外，用kindle看小说的怎么真心不懂了...",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 5,
-            "answer_id": 25,
-            "feed_source_id": 24,
-            "feed_source_name": "Alex5",
-            "feed_source_txt": "回答了问题5",
-            "feed_source_img": "../../images/icon8.jpg",
-            "question": "如何评价周杰伦的「中文歌才是最屌的」的言论？",
-            "answer_ctnt": "不知道题主是否是学音乐的。 音乐有公认的经典，也有明显的流行趋势没有错。但归根结底，音乐是一种艺术，艺术是很主观的东西。跟画作一个道理，毕加索是大家，但很多人看不懂他的话，甚至觉得很难看...",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 6,
-            "answer_id": 61,
-            "feed_source_id": 25,
-            "feed_source_name": "George6",
-            "feed_source_txt": "赞了回答6",
-            "feed_source_img": "../../images/icon9.jpeg",
-            "question": "气象铁塔的辐射大吗？",
-            "answer_ctnt": "我不知道那个铁塔的情况，不过气象铁塔上会有一些测太阳辐射的设备，如果说辐射的话，太阳辐射那么多，大家赶紧躲进地底下呀~~~~~要不然辐射量这么大，会变异的呀~~~~",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 7,
-            "answer_id": 3,
-            "feed_source_id": 23,
-            "feed_source_name": "Rebecca7",
-            "feed_source_txt": "赞了回答7",
-            "feed_source_img": "../../images/icon1.jpeg",
-            "question": "选择 Kindle 而不是纸质书的原因是什么？",
-            "answer_ctnt": "难道不明白纸质书更贵啊！！！ 若觉得kindle更贵，我觉得要么阅读量太少，那确实没有买kindle的必要。要么买的都是盗版的纸质书？我不清楚不加以评论。。。 另外，用kindle看小说的怎么真心不懂了...",
-            "good_num": "112",
-            "comment_num": "18"
-        },
-        {
-            "question_id": 8,
-            "answer_id": 25,
-            "feed_source_id": 24,
-            "feed_source_name": "Alex8",
-            "feed_source_txt": "回答了问题8",
-            "feed_source_img": "../../images/icon8.jpg",
-            "question": "如何评价周杰伦的「中文歌才是最屌的」的言论？",
-            "answer_ctnt": "不知道题主是否是学音乐的。 音乐有公认的经典，也有明显的流行趋势没有错。但归根结底，音乐是一种艺术，艺术是很主观的东西。跟画作一个道理，毕加索是大家，但很多人看不懂他的话，甚至觉得很难看...",
-            "good_num": "112",
-            "comment_num": "18"
-        }
-
-    ]
+            {
+                "question_id": 9,
+                "answer_id": 61,
+                "feed_source_id": 25,
+                "feed_source_name": "Nolan_11",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon9.jpeg",
+                "question": "大一c语言学生信息管理系统课程设计",
+                "answer_ctnt": "大一学c语言,现在回过头来看, 觉得当时什么图形界面啥的都没学, 怎么写课程设计。 结果我还是当时班上写得最棒的黑框框毕业设计。 放出来给各位参考参考, 希望能给你们灵感与鼓励。 效果图如下: ...",
+                "good_num": "1062",
+                "comment_num": "42"
+            },
+            {
+                "question_id": 16,
+                "answer_id": 3,
+                "feed_source_id": 23,
+                "feed_source_name": "McFly",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon1.jpeg",
+                "question": "关于如何更新github上的代码",
+                "answer_ctnt": "昨晚熬夜写完了“git上传本地项目代码到github”的任务，早上来公司先把早上的工作完成后，抽点时间继续来继续更新文章。一、克隆代码 1、把大神的代码clone到本地，或者clone自己github上的代码使用命令git clone...",
+                "good_num": "112",
+                "comment_num": "18"
+            },
+            {
+                "question_id": 11,
+                "answer_id": 25,
+                "feed_source_id": 24,
+                "feed_source_name": "Paker984",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon8.jpg",
+                "question": "人机交互如何改变人类生活 | 公开课笔记",
+                "answer_ctnt": "我从1982年开始坐在电脑前面，一直到现在。上一次做人工智能是27年前，大概1991年的时候，那个时候做人工智能的人非常可怜 ，因为做什么东西都注定做不出来，随便一个机器学习的训练、神经网络训练需要20天，调个参数再重新训练又是20天，非常非常慢...",
+                "good_num": "223",
+                "comment_num": "15"
+            },
+            {
+                "question_id": 9,
+                "answer_id": 61,
+                "feed_source_id": 25,
+                "feed_source_name": "Biden_Jr",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon9.jpeg",
+                "question": "Qt网络编程例子",
+                "answer_ctnt": "也可以用Qt的网络编程模块。   Network Programming with Qt Qt中的Qt Network模块用来编写基于TCP/IP的网络应用程序。  较低层次的类:用来表示低层次的网络概念QTcpSocket、QTcpServer、QUdpSocket 高层次的类:使用通用协议(http...",
+                "good_num": "549",
+                "comment_num": "78"
+            },
+            {
+                "question_id": 16,
+                "answer_id": 3,
+                "feed_source_id": 23,
+                "feed_source_name": "McFly",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon1.jpeg",
+                "question": "关于如何更新github上的代码",
+                "answer_ctnt": "昨晚熬夜写完了“git上传本地项目代码到github”的任务，早上来公司先把早上的工作完成后，抽点时间继续来继续更新文章。一、克隆代码 1、把大神的代码clone到本地，或者clone自己github上的代码使用命令git clone...",
+                "good_num": "112",
+                "comment_num": "18"
+            },
+            {
+                "question_id": 11,
+                "answer_id": 25,
+                "feed_source_id": 24,
+                "feed_source_name": "Paker984",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon8.jpg",
+                "question": "人机交互如何改变人类生活 | 公开课笔记",
+                "answer_ctnt": "我从1982年开始坐在电脑前面，一直到现在。上一次做人工智能是27年前，大概1991年的时候，那个时候做人工智能的人非常可怜 ，因为做什么东西都注定做不出来，随便一个机器学习的训练、神经网络训练需要20天，调个参数再重新训练又是20天，非常非常慢...",
+                "good_num": "223",
+                "comment_num": "15"
+            },
+            {
+                "question_id": 9,
+                "answer_id": 61,
+                "feed_source_id": 25,
+                "feed_source_name": "Biden_Jr",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon9.jpeg",
+                "question": "Qt网络编程例子",
+                "answer_ctnt": "也可以用Qt的网络编程模块。   Network Programming with Qt Qt中的Qt Network模块用来编写基于TCP/IP的网络应用程序。  较低层次的类:用来表示低层次的网络概念QTcpSocket、QTcpServer、QUdpSocket 高层次的类:使用通用协议(http...",
+                "good_num": "549",
+                "comment_num": "78"
+            },
+            {
+                "question_id": 16,
+                "answer_id": 3,
+                "feed_source_id": 23,
+                "feed_source_name": "McFly",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon1.jpeg",
+                "question": "关于如何更新github上的代码",
+                "answer_ctnt": "昨晚熬夜写完了“git上传本地项目代码到github”的任务，早上来公司先把早上的工作完成后，抽点时间继续来继续更新文章。一、克隆代码 1、把大神的代码clone到本地，或者clone自己github上的代码使用命令git clone...",
+                "good_num": "112",
+                "comment_num": "18"
+            },
+            {
+                "question_id": 11,
+                "answer_id": 25,
+                "feed_source_id": 24,
+                "feed_source_name": "Paker984",
+                "feed_source_txt": "",
+                "feed_source_img": "../../images/icon8.jpg",
+                "question": "人机交互如何改变人类生活 | 公开课笔记",
+                "answer_ctnt": "我从1982年开始坐在电脑前面，一直到现在。上一次做人工智能是27年前，大概1991年的时候，那个时候做人工智能的人非常可怜 ，因为做什么东西都注定做不出来，随便一个机器学习的训练、神经网络训练需要20天，调个参数再重新训练又是20天，非常非常慢...",
+                "good_num": "223",
+                "comment_num": "15"
+            }
+    
+        ]
 
 }
 
